@@ -1,0 +1,12 @@
+[
+    {
+        "fname": "James",
+        "lname": "David",
+        "zip": 90001
+    },
+    {
+        "fname": "Peter",
+        "lname": "Park",
+        "zip": 90002
+    }
+]
